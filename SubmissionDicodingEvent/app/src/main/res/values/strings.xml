@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission BFAA</string>
+    <string name="event_logo">Event Logo</string>
+    <string name="title_activity_main_bottom">MainActivityBottom</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Settings</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="save_bookmark">Save Bookmark?</string>
+    <string name="published_date">Published Date</string>
+    <string name="title">Title</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
